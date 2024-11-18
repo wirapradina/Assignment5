@@ -1,0 +1,22 @@
+.container {
+  background-color: rgb(255, 134, 47);
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+
+.box table {
+  font-size: 20px;
+}
+
+.box table tr td, .box table tr th {
+  padding: 5px 15px;
+}
+
+.copyright {
+  margin-top: 30px;
+}
